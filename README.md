@@ -1,2 +1,2 @@
 # DataPreparation.py
-Module incudes basic idea of Data Cleaning &amp; Data Preeration
+Module incudes basic idea of Data Cleaning &amp; Data Preparation
